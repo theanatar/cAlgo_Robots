@@ -1,5 +1,4 @@
 /* =========================================================================================
-Source: http://mycalgo.com/advisers/3bars_robot
 3BARS robot is based on the following statistics: after 3 consecutive bullish bars, 
 the price will rise further up, and after 3 bearish, it will go down.
 Recommended timeframe М10, currency pair EURUSD.
